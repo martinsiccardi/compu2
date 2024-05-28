@@ -1,0 +1,17 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\bin\Debug\net8.0-windows\programacion.exe
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\bin\Debug\net8.0-windows\programacion.deps.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\bin\Debug\net8.0-windows\programacion.runtimeconfig.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\bin\Debug\net8.0-windows\programacion.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\bin\Debug\net8.0-windows\programacion.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.Form1.resources
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.Properties.Resources.resources
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\refint\programacion.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\programacion.genruntimeconfig.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\programacion\obj\Debug\net8.0-windows\ref\programacion.dll

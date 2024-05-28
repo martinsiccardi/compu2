@@ -1,0 +1,16 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\bin\Debug\net8.0-windows\recuperatorio 1.exe
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\bin\Debug\net8.0-windows\recuperatorio 1.deps.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\bin\Debug\net8.0-windows\recuperatorio 1.runtimeconfig.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\bin\Debug\net8.0-windows\recuperatorio 1.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\bin\Debug\net8.0-windows\recuperatorio 1.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\refint\recuperatorio 1.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio 1.genruntimeconfig.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\ref\recuperatorio 1.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\recuperatorio 1\obj\Debug\net8.0-windows\recuperatorio_1.actividad1.resources

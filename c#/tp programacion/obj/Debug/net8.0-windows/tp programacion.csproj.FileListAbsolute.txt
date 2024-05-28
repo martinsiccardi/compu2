@@ -1,0 +1,6 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\tp programacion\obj\Debug\net8.0-windows\tp_programacion.Form1.resources
+C:\Users\Proa\Desktop\Nueva carpeta\c#\tp programacion\obj\Debug\net8.0-windows\tp programacion.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\tp programacion\obj\Debug\net8.0-windows\tp programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\tp programacion\obj\Debug\net8.0-windows\tp programacion.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\tp programacion\obj\Debug\net8.0-windows\tp programacion.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\tp programacion\obj\Debug\net8.0-windows\tp programacion.csproj.CoreCompileInputs.cache

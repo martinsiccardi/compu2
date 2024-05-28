@@ -1,0 +1,16 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\bin\Debug\net8.0-windows\LISTBOX.exe
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\bin\Debug\net8.0-windows\LISTBOX.deps.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\bin\Debug\net8.0-windows\LISTBOX.runtimeconfig.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\bin\Debug\net8.0-windows\LISTBOX.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\bin\Debug\net8.0-windows\LISTBOX.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.Form1.resources
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\refint\LISTBOX.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\LISTBOX.genruntimeconfig.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\LISTBOX\obj\Debug\net8.0-windows\ref\LISTBOX.dll

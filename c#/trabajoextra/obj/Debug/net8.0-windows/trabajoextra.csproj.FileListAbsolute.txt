@@ -1,0 +1,16 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\bin\Debug\net8.0-windows\trabajoextra.exe
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\bin\Debug\net8.0-windows\trabajoextra.deps.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\bin\Debug\net8.0-windows\trabajoextra.runtimeconfig.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\bin\Debug\net8.0-windows\trabajoextra.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\bin\Debug\net8.0-windows\trabajoextra.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.Form1.resources
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\refint\trabajoextra.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\trabajoextra.genruntimeconfig.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajoextra\obj\Debug\net8.0-windows\ref\trabajoextra.dll

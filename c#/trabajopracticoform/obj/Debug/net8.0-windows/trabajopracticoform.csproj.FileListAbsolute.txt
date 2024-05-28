@@ -1,0 +1,16 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\bin\Debug\net8.0-windows\trabajopracticoform.exe
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\bin\Debug\net8.0-windows\trabajopracticoform.deps.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\bin\Debug\net8.0-windows\trabajopracticoform.runtimeconfig.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\bin\Debug\net8.0-windows\trabajopracticoform.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\bin\Debug\net8.0-windows\trabajopracticoform.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\refint\trabajopracticoform.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.genruntimeconfig.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\ref\trabajopracticoform.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\trabajopracticoform\obj\Debug\net8.0-windows\trabajopracticoform.actividad1.resources

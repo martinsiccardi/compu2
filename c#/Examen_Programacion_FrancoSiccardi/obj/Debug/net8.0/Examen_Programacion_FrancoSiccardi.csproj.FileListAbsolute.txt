@@ -1,0 +1,14 @@
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\bin\Debug\net8.0\Examen_Programacion_FrancoSiccardi.exe
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\bin\Debug\net8.0\Examen_Programacion_FrancoSiccardi.deps.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\bin\Debug\net8.0\Examen_Programacion_FrancoSiccardi.runtimeconfig.json
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\bin\Debug\net8.0\Examen_Programacion_FrancoSiccardi.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\bin\Debug\net8.0\Examen_Programacion_FrancoSiccardi.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.AssemblyInfo.cs
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\refint\Examen_Programacion_FrancoSiccardi.dll
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.pdb
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\Examen_Programacion_FrancoSiccardi.genruntimeconfig.cache
+C:\Users\Proa\Desktop\Nueva carpeta\c#\Examen_Programacion_FrancoSiccardi\obj\Debug\net8.0\ref\Examen_Programacion_FrancoSiccardi.dll
