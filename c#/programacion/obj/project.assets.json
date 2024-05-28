@@ -1,26 +1,57 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "FontAwesome.Sharp/6.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FontAwesome.Sharp/6.3.0": {
+      "sha512": "3/Fb0N04yYK8An07oox5ISlUyNgsnWildHfoP69uqTEOsemQemRyciphMkXZOcdBupjUD+lVsRE3FqG41/dzPA==",
+      "type": "package",
+      "path": "fontawesome.sharp/6.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fontawesome.sharp.6.3.0.nupkg.sha512",
+        "fontawesome.sharp.nuspec",
+        "lib/net472/FontAwesome.Sharp.dll",
+        "lib/net48/FontAwesome.Sharp.dll",
+        "lib/net6.0-windows7.0/FontAwesome.Sharp.dll",
+        "lib/netcoreapp3.1/FontAwesome.Sharp.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "FontAwesome.Sharp >= 6.3.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Proa\\.nuget\\packages\\": {}
+    "C:\\Users\\tybot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj",
+      "projectUniqueName": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj",
       "projectName": "programacion",
-      "projectPath": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj",
-      "packagesPath": "C:\\Users\\Proa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\obj\\",
+      "projectPath": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj",
+      "packagesPath": "C:\\Users\\tybot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Proa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tybot\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -50,6 +81,12 @@
     "frameworks": {
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "FontAwesome.Sharp": {
+            "target": "Package",
+            "version": "[6.3.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -69,7 +106,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

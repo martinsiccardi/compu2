@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj": {}
+    "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj": {
+    "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj",
+        "projectUniqueName": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj",
         "projectName": "programacion",
-        "projectPath": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj",
-        "packagesPath": "C:\\Users\\Proa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\obj\\",
+        "projectPath": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj",
+        "packagesPath": "C:\\Users\\tybot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Proa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tybot\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

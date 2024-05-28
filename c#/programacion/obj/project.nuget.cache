@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zukRppwu8/fS9xaHgmVangHqkzRBMXbWqJZGLgVrhw3/WBR4D4LZ902BZZdpnVi8o3XanqKuL9ylFuwrtNrWGQ==",
+  "dgSpecHash": "zURp1X8LUOk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\programacion.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\programacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tybot\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

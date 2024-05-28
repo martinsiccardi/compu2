@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\",
+  "WorkspaceRootPath": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\proa\\desktop\\nueva carpeta\\c#\\programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\tybot\\desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\tybot\\desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmvendidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|solutionrelative:frmvendidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\tybot\\desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\tybot\\desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|solutionrelative:frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\tybot\\desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|solutionrelative:frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|c:\\users\\tybot\\desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BEB659-DD3D-4242-88D9-25602852047C}|programacion.csproj|solutionrelative:frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +34,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmproductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmproductos.cs",
+              "RelativeDocumentMoniker": "frmproductos.cs",
+              "ToolTip": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmproductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmproductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:49:01.62Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\Form1.cs",
+              "Title": "frmvendidos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmvendidos.cs",
+              "RelativeDocumentMoniker": "frmvendidos.cs",
+              "ToolTip": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmvendidos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmvendidos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:48:31.766Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:44:46.499Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBEAAAAJAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowCoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T16:58:51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Proa\\Desktop\\Nueva carpeta\\c#\\programacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "frmusuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmusuarios.cs",
+              "RelativeDocumentMoniker": "frmusuarios.cs",
+              "ToolTip": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmusuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmusuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T16:45:30.519Z",
+              "WhenOpened": "2024-05-28T16:48:04.389Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmventas.cs",
+              "RelativeDocumentMoniker": "frmventas.cs",
+              "ToolTip": "C:\\Users\\tybot\\Desktop\\colegio franco\\programacion\\compu2\\c#\\programacion\\frmventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmventas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:41:51.551Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

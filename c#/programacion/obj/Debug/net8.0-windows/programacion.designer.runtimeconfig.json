@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Proa\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Proa\\.nuget\\packages"
+      "C:\\Users\\tybot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tybot\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
